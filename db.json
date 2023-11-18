@@ -1,0 +1,94 @@
+{
+    "news": [
+        {
+            "id": 1,
+            "img": "/NewsImage\\News1.svg",
+            "date": "05.03.2022",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus amet lectus elit ...",
+            "icon": "/NewsImage\\DateIcon.svg",
+            "icon2": "./NewsImage\\ButtonIcon.svg",
+            "button": "Davamı"
+        },
+        {
+            "id": 2,
+            "img": "/NewsImage\\News2.svg",
+            "date": "05.03.2022",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus amet lectus elit ...",
+            "icon": "/NewsImage\\DateIcon.svg",
+            "icon2": "./NewsImage\\ButtonIcon.svg",
+            "button": "Davamı"
+        },
+        {
+            "id": 3,
+            "img": "/NewsImage\\News3.svg",
+            "date": "05.03.2022",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus amet lectus elit ...",
+            "icon": "/NewsImage\\DateIcon.svg",
+            "icon2": "./NewsImage\\ButtonIcon.svg",
+            "button": "Davamı"
+        },
+        {
+            "id": 4,
+            "img": "/NewsImage\\News4.svg",
+            "date": "05.03.2022",
+            "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus amet lectus elit ...",
+            "icon": "/NewsImage\\DateIcon.svg",
+            "icon2": "./NewsImage\\ButtonIcon.svg",
+            "button": "Davamı"
+        }
+    ],
+    "employees": [
+        {
+            "id": 1,
+            "img": "./Employees/personImage/AdilMehdiyev.svg",
+            "username": "Adil Mehdiyev",
+            "position": "İnşaat mühəndisi",
+            "workpractic": "İş təcrübəsi:",
+            "workday": "2 il"
+        },
+        {
+            "id": 2,
+            "img": "./Employees/personImage/RafiqRzayev.svg",
+            "username": "Rafiq Rzayev",
+            "position": "Texniki təhlükəsizlik üzrə mütəxəssis",
+            "workpractic": "İş təcrübəsi:",
+            "workday": "15 ildən çox"
+        },
+        {
+            "id": 3,
+            "img": "/Employees/personImage/ZaurMikayilov.svg",
+            "username": "Zaur Mikayılov",
+            "position": "Geodeziya üzrə mütəxəssis",
+            "workpractic": "İş təcrübəsi:",
+            "workday": "5 il"
+        },
+        {
+            "id": 4,
+            "img": "/Employees/personImage/ResadIbrahimov.svg",
+            "username": "Rəşad İbrahimov",
+            "position": "Geodeziya üzrə operator",
+            "workpractic": "İş təcrübəsi:",
+            "workday": "3 il"
+        },
+        {
+            "id": 5,
+            "img": "/Employees/personImage/ElnurMehtiyev.svg",
+            "username": "Elnur Mehtiyev",
+            "position": "Sahə rəisi",
+            "workpractic": "İş təcrübəsi:",
+            "workday": "1 il"
+        },
+        {
+            "id": 6,
+            "img": "/Employees/personImage/CemilBayramov.svg",
+            "username": "Cəmil Bayramov",
+            "position": "Sahə rəisi",
+            "workpractic": "İş təcrübəsi:",
+            "workday": "1 il"
+        }
+    ]
+}
